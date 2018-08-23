@@ -5,7 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 import java.util.concurrent.*;
 
 /**
- * CyclicBarrier
+ * CyclicBarrier  可以设置同时阻塞几个线程，到达数目后同时放开
  *
  * @author yeleichao
  * @date 2018-8-22.
